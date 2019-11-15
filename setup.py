@@ -7,7 +7,7 @@ setup(
   description = 'Execution-time optimized solutions for various programming problems.',
   author_email = 'jkbielan@gmail.com',
   url = 'https://github.com/JBielan/bielan_algo',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/JBielan/bielan_algo/archive/v_01.tar.gz',
   keywords = ['SOLUTIONS', 'ALGORITHMS', 'TIME-OPTIMIZED', 'PYTHON3', 'PYTHON'],
   install_requires=[
       ],
