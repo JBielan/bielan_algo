@@ -1,1 +1,1 @@
-from bielan_algo.algos import function_example
+from .algos import *
