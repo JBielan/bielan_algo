@@ -2,12 +2,12 @@ from distutils.core import setup
 setup(
   name = 'bielan_algo',
   packages = ['bielan_algo'],
-  version = '0.193',
+  version = '0.196',
   license='MIT',
   description = 'Execution-time optimized solutions for various programming problems.',
   author_email = 'jkbielan@gmail.com',
   url = 'https://github.com/JBielan/bielan_algo',
-  download_url = 'https://github.com/JBielan/bielan_algo/archive/v_0.193.tar.gz',
+  download_url = 'https://github.com/JBielan/bielan_algo/archive/v_0.194.tar.gz',
   keywords = ['SOLUTIONS', 'ALGORITHMS', 'TIME-OPTIMIZED', 'PYTHON3', 'PYTHON'],
   install_requires=[
       ],
