@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'bielan_algo',
   packages = ['bielan_algo'],
-  version = '0.1',
+  version = '0.11',
   license='MIT',
   description = 'Execution-time optimized solutions for various programming problems.',
   author_email = 'jkbielan@gmail.com',
