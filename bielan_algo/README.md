@@ -1,0 +1,1 @@
+This package is intended to reduce time needed to solve programming problems with shortest execution-time in mind. 
